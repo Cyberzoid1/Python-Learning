@@ -17,3 +17,8 @@ stuff
 Strings can be added together with , or + seemingly same output
 print "days: ", days
 print "days: " + days
+
+When printing with input, end with , to not print a new line. Good for inputs
+print "enter x: ",
+x = raw_input()
+Of course this is better name = raw_input("What is your name? ")
