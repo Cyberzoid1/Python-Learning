@@ -3,9 +3,17 @@ Includes recommended libraries for self-learners
 https://chrisconlan.com/learning-python-without-library-overload/
 
 === Notes ==========================
-comments % this is a comment
+comments # this is a comment
 
 Using %r prints out raw data for debugging {ex6}
 when printing to concatenating variables its just print var + var2
 
 print "." * 10 prints 10 .  like ..........
+
+print """    This allows you to print multiple lines. like /* */
+stuff
+"""
+
+Strings can be added together with , or + seemingly same output
+print "days: ", days
+print "days: " + days
