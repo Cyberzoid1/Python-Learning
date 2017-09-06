@@ -1,0 +1,11 @@
+=== Sites ===========================
+Includes recommended libraries for self-learners
+https://chrisconlan.com/learning-python-without-library-overload/
+
+=== Notes ==========================
+comments % this is a comment
+
+Using %r prints out raw data for debugging {ex6}
+when printing to concatenating variables its just print var + var2
+
+print "." * 10 prints 10 .  like ..........
