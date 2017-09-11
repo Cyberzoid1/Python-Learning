@@ -30,3 +30,8 @@ Writing multiple lines to a string and writing it
   or
   mystr2 = line1 + " " + line2 + " " + line3 + "\n"
   target.write(mystr2)
+
+ex 20 file funtions
+file.seek(0)  goes to position 0
+file.readline get line
+print file.read() will print the entire file
