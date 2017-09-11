@@ -35,3 +35,5 @@ ex 20 file funtions
 file.seek(0)  goes to position 0
 file.readline get line
 print file.read() will print the entire file
+
+ex 24 is a summary of previous exercises
