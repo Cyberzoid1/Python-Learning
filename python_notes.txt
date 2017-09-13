@@ -37,3 +37,18 @@ file.readline get line
 print file.read() will print the entire file
 
 ex 24 is a summary of previous exercises
+
+python time and datetime
+
+>>> import time
+>>> time.time()
+1425063955.068649
+
+now = time.time()
+round(now, 4)
+
+
+time.sleep()  #blocking
+
+Good material all around
+https://automatetheboringstuff.com/chapter15/
